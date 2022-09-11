@@ -1,0 +1,30 @@
+
+/* common css */
+
+img{
+    width: 100%;
+}
+
+
+
+
+
+
+/* section one style starts */
+
+#sectionOne{
+    background: linear-gradient(transparent,#00000057), url(..//img/cover3.jpg) center center;
+    background-blend-mode: multiply;
+    height: 100vh;
+    background-size: cover;
+    
+    
+}
+
+.padd{
+    padding-top: 100px;
+}
+
+.footer{
+    text-align: end;
+}
